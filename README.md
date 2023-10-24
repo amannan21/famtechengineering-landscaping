@@ -1,5 +1,6 @@
 >Freelance Website Build
-# By The Sea Landscaping a subsidary of famtech engineering
+## By The Sea Landscaping 
+## A Subsidary of Famtech engineering
 
 </br>
 This repository was created using React, Next.js, Tailwind, and Framer Motion. The website aims to showcase the services offered by the landscaping business and provide information to potential clients.
