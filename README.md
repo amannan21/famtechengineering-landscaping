@@ -1,8 +1,8 @@
 >Freelance Website Build
-# By The Sea Landscaping
+# By The Sea Landscaping a subsidary of famtech engineering
 
 </br>
-This repository contains the code for a small landscaping business website built using React, Next.js, Tailwind, and Framer Motion. The website aims to showcase the services offered by the landscaping business and provide information to potential clients.
+This repository was created using React, Next.js, Tailwind, and Framer Motion. The website aims to showcase the services offered by the landscaping business and provide information to potential clients.
 </br>
 
 
@@ -82,31 +82,8 @@ The client's requirements were to create a modern and responsive website that ef
 
 - **Nodemailer:** A module for Node.js applications that allows sending emails using SMTP or sendmail transport.
 
-### Deployment
-
-**Vercel** was implemented for deployment and testing of the project due to its seamless integration with Next.js via the Vercel CLI. Some other key features include:
-
-- **Continuous Deployment**: Allowing for updates to be deployed whenever changes are pushed to the main branch. This allowed the client to have ready access to the MVP throughout the testing stages of the project.
-- **Environment Variables**: Vercel provided a secure way to manage environment variables. We leveraged this feature to store sensitive information, such as API keys email data, without exposing them in our codebase.
-- **Scaling and Performance**: Vercel automatically handles scalability and performance optimizations for the application. With built-in caching, content delivery network (CDN) distribution, and serverless functions, ensuring fast and reliable delivery of the application to users.
 
 
-## Feedback 
-
-Feedback and suggestions for this project is welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Ensure that you follow the established coding guidelines and best practices.
-
-## Acknowlegements 
-
-- [By The Sea Landscaping](https://bythesealandscapes.com) 
-- [React](https://reactjs.org/)
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Formik](https://formik.org/)
-- [Yup](https://www.npmjs.com/package/yup)
-- [Express](https://expressjs.com/)
-- [Nodemailer](https://nodemailer.com/about/)
-- [Vercel](https://vercel.com/)
 
 ## Getting Started
 
@@ -139,7 +116,3 @@ Feedback and suggestions for this project is welcome. If you find any issues or 
 
 2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-
-## Licence 
-
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).
